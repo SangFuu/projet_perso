@@ -1,0 +1,12 @@
+# Fichiers compiles et donnees locales des IDE
+bin/
+obj/
+build/
+*.exe
+*.o
+*.obj
+*.depend
+*.layout
+.idea/
+.vscode/
+.DS_Store

@@ -1,0 +1,2 @@
+# Le script PowerShell sert uniquement à lancer les tests.
+tests/test.ps1 linguist-vendored
